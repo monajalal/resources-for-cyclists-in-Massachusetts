@@ -13,26 +13,39 @@ A compilation of resources for cyclists in Massachusetts
 - Landry's Boston (BU)
 - Landry's Newton 
 - Bike Boom (Davis Sq)
+- [Broadway Bicycle School](https://broadwaybicycleschool.com/) (Inman Square, Cambridge)
 - Ace Wheelworks (Davis Sq)
 - Belmont Wheelworks 
 - Bikes not Bombs (JP)
 - Ferris Wheels Bike Shop (JP)
 - REI (Fenway)
-- Community Bike Supply 
+- Community Bike Supply (South End, Boston)
 - Bikeway Source (Bedford, end of Minuteman bike path)
 - Apex Velo (Newton)
 - JRA Cycles (Medford, they mostly have mountain/gravel bikes but run crazy good sales 70% off from time to time)
 
 
-## Biking schools
+## Biking schools and classes
+
+### Learning how to ride
+
 - Susan McLucas (Bicycle Whisperer, SusanBMcL@gmail.com), Bicycle Riding School (near Davis Sq), 6177766524, https://www.bicycleridingschool.org/
-- Broadway Bicycle School https://broadwaybicycleschool.com/
-- Bikes Not Bombs bicycle school https://bikesnotbombs.org/bike-school/
-- Landry's and Wheelworks both have bicycle maintenance classes during winter (check their Instagram stories)
 - [City of Boston](https://content.boston.gov/departments/boston-bikes/women-bike?fbclid=IwAR2mNnpO-rN1mloRpAr6fCMChLPavsC7R1gn9p9X00eXmOPcnLPEzcqNKD0) often has free cycling class for kids and adult women
 
+### Learning bike maintenance
 
+- Bikes Not Bombs bicycle school https://bikesnotbombs.org/bike-school/
+- Landry's and Wheelworks both have bicycle maintenance classes during winter (check their Instagram stories)
 
+## Bike Kitchens / DIY Bike Maintenance Spaces
+
+- Somerville Bike Kitchen
+- CommonWheels Bike co-op
+- Dorchester Bike Kitchen
+- The Bike Lab @ MIT (coming soon)
+- [Watch City Bike Lab](https://www.charlesrivermuseum.org/watch-city-bike-lab) Waltham, MA
+- Smith College's space
+- Worcester Earn-A-Bike
 
 ## Bike Trails
 - Minuteman (10 miles)
@@ -67,6 +80,7 @@ A compilation of resources for cyclists in Massachusetts
 - Brothers on Bike Boston (BoB) (Instagram page + Facebook group)
 - MassBikes (Instagram page)
 - Boston Cyclist Union
+- CommonWheels Bike co-op
 - GB NEMBA (Greater Boston)
 
 ## Cycling apps
