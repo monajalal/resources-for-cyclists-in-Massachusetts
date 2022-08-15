@@ -88,6 +88,7 @@ A compilation of resources for cyclists in Massachusetts
 - Ride With GPS 
 - Zwift (for the Zwifties inside you specially during the long winters in MA)
 - Garmin Connect (for the Garmin addicts)
+- [wandrer.earth](https://wandrer.earth/) (helps you realize how much of earth you have discovered) (an API you can connect to Strava - I use the Pro version)
 
 ## TODO
 - [ ] add links for items listed
