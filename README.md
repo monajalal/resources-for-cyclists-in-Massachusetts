@@ -46,11 +46,15 @@ A compilation of resources for cyclists in Massachusetts
   - Open Shop: Saturdays (weather permitting) 12-4PM in Lower Allston, at the [intersection of Western Avenue and North Harvard Street](https://goo.gl/maps/ueEsLRu3B3eRnKmCA)
 - [Dorchester Bike Kitchen](https://www.instagram.com/dotbikekitchen/) in Fields Corner
   - Open Saturdays, 6-9PM
+- [Tufts Bikes](https://tuftsbikes.com/)
 - [The Bike Lab @ MIT](https://engage.mit.edu/tbl/home/)
   - Instagram: [@the_bike_lab](https://www.instagram.com/the_bike_lab/)
 - [Watch City Bike Lab](https://www.charlesrivermuseum.org/watch-city-bike-lab) Waltham, MA
-- Smith College's space
-- Worcester Earn-A-Bike
+- [Smith College Bike Kitchen](https://sophia.smith.edu/blog/bikekitchen/) - Northhampton, MA
+  - Instagram: [@smith.bikekitchen](https://www.instagram.com/smith.bikekitchen/)
+- [Worcester Earn-A-Bike](http://worcesterearnabike.org/)
+- [RadSpringfield](https://radspringfield.org/): Springfield, MA
+  - [Facebook](https://www.facebook.com/RadSpringfield/)
 
 ## Bike Trails
 
