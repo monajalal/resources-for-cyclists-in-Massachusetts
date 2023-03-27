@@ -19,7 +19,7 @@ A compilation of resources for cyclists in Massachusetts
 - Belmont Wheelworks
 - Bikes not Bombs (JP)
 - Ferris Wheels Bike Shop (JP)
-- REI (Fenway)
+- REI (Fenway/Cambridge Crossing)
 - Community Bike Supply (South End, Boston)
 - Bikeway Source (Bedford, end of Minuteman bike path)
 - Apex Velo (Newton)
@@ -36,6 +36,7 @@ A compilation of resources for cyclists in Massachusetts
 
 - Bikes Not Bombs bicycle school https://bikesnotbombs.org/bike-school/
 - Landry's and Wheelworks both have bicycle maintenance classes during winter (check their Instagram stories)
+- [Broadway Bike School](https://broadwaybicycleschool.com/events/)
 
 ## Bike Kitchens / DIY Bike Maintenance Spaces
 
